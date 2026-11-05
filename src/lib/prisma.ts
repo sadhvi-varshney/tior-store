@@ -1,3 +1,10 @@
+import dns from "dns";
+try {
+  dns.setServers(["8.8.8.8", "1.1.1.1"]);
+} catch {
+  // Ignore in environments where setting DNS servers is restricted
+}
+
 import { PrismaClient } from "@prisma/client";
 
 const globalForPrisma = globalThis as unknown as {
