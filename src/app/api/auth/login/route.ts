@@ -7,7 +7,7 @@ export async function POST(request: Request) {
   const adminPassword =
     configuredPassword && configuredPassword !== "change-this-admin-password"
       ? configuredPassword
-      : "tagasadmin123";
+      : "tioradmin123";
 
   if (
     process.env.NODE_ENV === "production" &&
