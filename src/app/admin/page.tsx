@@ -928,7 +928,7 @@ export default function AdminPage() {
               onChange={(event) =>
                 setProductForm((prev) => ({ ...prev, amazonUrl: event.target.value }))
               }
-              placeholder="Amazon product link"
+              placeholder="Product buy link (e.g. Ajio, Amazon, Store)"
               required
               className="rounded-lg border border-slate-300 px-3 py-2 outline-none focus:border-slate-500"
             />

@@ -17,7 +17,7 @@ const oswald = Oswald({
 export const metadata: Metadata = {
   title: "TIOR | Style with Comfort",
   description:
-    "Official online store for TIOR. Discover comfortable and stylish fashion essentials with fast Amazon checkout.",
+    "Official online store for TIOR. Discover comfortable and stylish fashion essentials with fast checkout.",
 };
 
 export default function RootLayout({

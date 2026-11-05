@@ -92,10 +92,10 @@ export function ProductQuickView({
               rel="noopener noreferrer"
               className="mt-auto block bg-brand-red py-4 text-center text-xs font-bold uppercase tracking-[0.2em] text-white transition hover:bg-brand-navy"
             >
-              Buy on Amazon
+              Buy Now
             </a>
             <p className="text-center text-[10px] uppercase tracking-wider text-brand-gray">
-              Secure checkout via Amazon
+              Secure Checkout
             </p>
           </div>
         </div>

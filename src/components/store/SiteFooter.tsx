@@ -95,7 +95,7 @@ export function SiteFooter() {
         </div>
         <p className="mb-2">Copyright © TIOR | All Rights Reserved</p>
         <p className="text-[10px] text-white/50 max-w-3xl mx-auto px-4 leading-relaxed">
-          Amazon Affiliate Notice: &quot;As an Amazon Associate, TIOR Brand may earn from qualifying purchases made through links on this website.&quot;
+          Affiliate Notice: &quot;As an affiliate partner, TIOR Brand may earn from qualifying purchases made through links on this website.&quot;
         </p>
       </div>
     </footer>
